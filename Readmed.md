@@ -1,0 +1,1 @@
+mypy palindrome.py --check-untyped-defs
