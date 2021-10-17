@@ -3,6 +3,9 @@ Podemos hacer return de una función creada dentro de otra función 😵 y luego
 en variables que podemos utilizar.'''
 
 '''
+
+Como saber si es una clausura o no:
+
 * Debemos tener una nested function
 * La nedted function debe referenciar un valor de un scope superior.
 * La funcion que envuielve a la nested function debe retornarla tambien
