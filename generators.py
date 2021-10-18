@@ -29,7 +29,7 @@ a = my_gen()
 print(next(a)) # Hello world!
 print(next(a)) # Hello heaven!
 print(next(a)) # Hello hell!
-print(next(a)) StopIteration
+print(next(a)) 
 
 
 # Generator expression
